@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\GorestApiTests\\GoRestTest\\",
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90570E36-5FEF-4279-AEFC-CBAC2D8C7178}|GoRestTest\\GoRestTest.csproj|c:\\users\\owner\\documents\\github\\gorestapitests\\goresttest\\goresttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90570E36-5FEF-4279-AEFC-CBAC2D8C7178}|GoRestTest\\GoRestTest.csproj|solutionrelative:goresttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoRestTest\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Tests\\UsersTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoRestTest\\Tests\\UsersTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Tests\\TestBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoRestTest\\Tests\\TestBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Models\\UserResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoRestTest\\Models\\UserResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\Service\\ServiceRegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoRestTest\\Framework\\Service\\ServiceRegistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\TestConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoRestTest\\Framework\\TestConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\HttpClientFactory\\HttpCleintProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GoRestTest\\Framework\\HttpClientFactory\\HttpCleintProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90570E36-5FEF-4279-AEFC-CBAC2D8C7178}|GoRestTest\\GoRestTest.csproj|C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90570E36-5FEF-4279-AEFC-CBAC2D8C7178}|GoRestTest\\GoRestTest.csproj|solutionrelative:GoRestTest\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +55,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\config.json",
+              "RelativeDocumentMoniker": "GoRestTest\\config.json",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\config.json",
+              "RelativeToolTip": "GoRestTest\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T13:27:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Tests\\UsersTests.cs",
+              "RelativeDocumentMoniker": "GoRestTest\\Tests\\UsersTests.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Tests\\UsersTests.cs",
+              "RelativeToolTip": "GoRestTest\\Tests\\UsersTests.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAqwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:26:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Tests\\TestBase.cs",
+              "RelativeDocumentMoniker": "GoRestTest\\Tests\\TestBase.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Tests\\TestBase.cs",
+              "RelativeToolTip": "GoRestTest\\Tests\\TestBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:26:06.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\TestConfiguration.cs",
+              "RelativeDocumentMoniker": "GoRestTest\\Framework\\TestConfiguration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\TestConfiguration.cs",
+              "RelativeToolTip": "GoRestTest\\Framework\\TestConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:24:42.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\Service\\ServiceRegistry.cs",
+              "RelativeDocumentMoniker": "GoRestTest\\Framework\\Service\\ServiceRegistry.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\Service\\ServiceRegistry.cs",
+              "RelativeToolTip": "GoRestTest\\Framework\\Service\\ServiceRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:21:52.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Models\\UserResponse.cs",
+              "RelativeDocumentMoniker": "GoRestTest\\Models\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Models\\UserResponse.cs",
+              "RelativeToolTip": "GoRestTest\\Models\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:19:02.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HttpCleintProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\HttpClientFactory\\HttpCleintProvider.cs",
+              "RelativeDocumentMoniker": "GoRestTest\\Framework\\HttpClientFactory\\HttpCleintProvider.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\Framework\\HttpClientFactory\\HttpCleintProvider.cs",
+              "RelativeToolTip": "GoRestTest\\Framework\\HttpClientFactory\\HttpCleintProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:18:35.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\GorestApiTests\\GoRestTest\\GoRestTest\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "GoRestTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\GorestApiTests\\GoRestTest\\GoRestTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\github 2\\GoRestAPI\\GoRestTest\\GoRestTest\\UnitTest1.cs",
               "RelativeToolTip": "GoRestTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T13:14:07.642Z",
               "EditorCaption": ""
